@@ -1,0 +1,7 @@
+# Instalation #
+npm init -yes
+npm install
+npm install express moment socket.io
+
+# Open Project #
+npm start
